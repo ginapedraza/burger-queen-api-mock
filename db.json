@@ -69,8 +69,8 @@
       "id": 1,
       "name": "American coffee",
       "price": 500,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
-      "type": "Beverages",
+      "image": "resources/images/producto-cafe.png",
+      "type": "Breakfast",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -101,8 +101,8 @@
       "id": 5,
       "name": "Milk",
       "price": 500,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/blob/main/resources/images/milk.png",
-      "type": "Beverages",
+      "image": "https://raw.githubusercontent.com/ginapedraza/burger-queen-api-mock/main/resources/images/milk-shake-chocolate.png",
+      "type": "Breakfast",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
