@@ -1,26 +1,6 @@
 {
   "orders": [
     {
-      "client": "Renata",
-      "table": "Mesa 2",
-      "products": [
-        {
-          "id": 1,
-          "name": "Café Americano",
-          "price": 3000,
-          "qty": 1,
-          "pricetotal": 3000,
-          "image": "https://raw.githubusercontent.com/ginapedraza/burger-queen-api-mock/main/resources/images/producto-cafe.png",
-          "type": "Breakfast",
-          "dateEntry": "2022-03-05 15:14:10"
-        }
-      ],
-      "dateEntry": "3:37 PM",
-      "status": "Entregado",
-      "id": 52,
-      "dateFinal": "4:19 PM"
-    },
-    {
       "client": "Rolo",
       "table": "Mesa 2",
       "products": [
