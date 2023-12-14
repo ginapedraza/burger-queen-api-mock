@@ -145,19 +145,22 @@
       "email": "admin@systers.xyz",
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "Admin",
-      "id": 1
+      "id": 1,
+      "name": "Jorge Perez"
     },
     {
       "email": "waiter@systers.xyz",
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "Mesero",
-      "id": 2
+      "id": 2,
+      "name": "Jose Gonzalez"
     },
     {
       "email": "chef@systers.xyz",
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "Chef",
-      "id": 3
+      "id": 3,
+      "name": "Daniela Castro"
     }
   ]
 }
