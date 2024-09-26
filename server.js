@@ -16,6 +16,8 @@ const rules = auth.rewriter(JSON.parse(fs.readFileSync(path.join(__dirname, 'rou
 // /!\ Bind the router db to the app
 app.db = router.db
 
+app.use(cors());
+
 // You must apply the auth middleware before the router
 app.use(middlewares);
 app.use(rules);

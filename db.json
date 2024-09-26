@@ -1,166 +1,6 @@
 {
   "orders": [
     {
-      "client": "Zoey",
-      "table": "Mesa 9",
-      "products": [
-        {
-          "id": 13,
-          "name": "Papas Fritas",
-          "price": 2500,
-          "qty": 1,
-          "pricetotal": 2500,
-          "image": "https://raw.githubusercontent.com/ginapedraza/burger-queen-api-mock/main/resources/images/producto-papas.png",
-          "type": "Lunch",
-          "dateEntry": "2022-03-05 15:14:10"
-        },
-        {
-          "id": 10,
-          "name": "Hamburguesa Simple",
-          "price": 8500,
-          "qty": 1,
-          "pricetotal": 8500,
-          "image": "https://raw.githubusercontent.com/ginapedraza/burger-queen-api-mock/main/resources/images/producto-burger.png",
-          "type": "Lunch",
-          "dateEntry": "2022-03-05 15:14:10"
-        },
-        {
-          "id": 9,
-          "name": "Bebida 750ml",
-          "price": 2000,
-          "qty": 1,
-          "pricetotal": 2000,
-          "image": "https://raw.githubusercontent.com/ginapedraza/burger-queen-api-mock/main/resources/images/producto-gasesosa.png",
-          "type": "Lunch",
-          "dateEntry": "2022-03-05 15:14:10"
-        }
-      ],
-      "dateEntry": "8:49 AM",
-      "id": 4,
-      "dateFinal": "3:04 PM",
-      "status": "Entregado"
-    },
-    {
-      "client": "Nicole",
-      "table": "Mesa 5",
-      "products": [
-        {
-          "id": 1,
-          "name": "Café Americano",
-          "price": 3000,
-          "qty": 1,
-          "pricetotal": 3000,
-          "image": "https://raw.githubusercontent.com/ginapedraza/burger-queen-api-mock/main/resources/images/producto-cafe.png",
-          "type": "Breakfast",
-          "dateEntry": "2022-03-05 15:14:10"
-        },
-        {
-          "id": 5,
-          "name": "Jugo Natural",
-          "price": 3500,
-          "qty": 1,
-          "pricetotal": 3500,
-          "image": "https://raw.githubusercontent.com/ginapedraza/burger-queen-api-mock/main/resources/images/producto-jugo.png",
-          "type": "Breakfast",
-          "dateEntry": "2022-03-05 15:14:10"
-        }
-      ],
-      "dateEntry": "12:25 PM",
-      "id": 21,
-      "status": "Entregado",
-      "dateFinal": "12:30 PM"
-    },
-    {
-      "client": "Pato",
-      "table": "Mesa 6",
-      "products": [
-        {
-          "id": 1,
-          "name": "Café Americano",
-          "price": 3000,
-          "qty": 1,
-          "pricetotal": 3000,
-          "image": "https://raw.githubusercontent.com/ginapedraza/burger-queen-api-mock/main/resources/images/producto-cafe.png",
-          "type": "Breakfast",
-          "dateEntry": "2022-03-05 15:14:10"
-        }
-      ],
-      "dateEntry": "3:06 PM",
-      "status": "Entregado",
-      "id": 49,
-      "dateFinal": "3:29 PM"
-    },
-    {
-      "client": "Tom",
-      "table": "Mesa 1",
-      "products": [
-        {
-          "id": 7,
-          "name": "Agua Mineral 750ml",
-          "price": 1500,
-          "qty": 1,
-          "pricetotal": 1500,
-          "image": "https://raw.githubusercontent.com/ginapedraza/burger-queen-api-mock/main/resources/images/producto-agua-750.png",
-          "type": "Lunch",
-          "dateEntry": "2022-03-05 15:14:10"
-        },
-        {
-          "id": 9,
-          "name": "Bebida 750ml",
-          "price": 2000,
-          "qty": 1,
-          "pricetotal": 2000,
-          "image": "https://raw.githubusercontent.com/ginapedraza/burger-queen-api-mock/main/resources/images/producto-gasesosa.png",
-          "type": "Lunch",
-          "dateEntry": "2022-03-05 15:14:10"
-        },
-        {
-          "id": 11,
-          "name": "Hamburguesa Doble",
-          "price": 12000,
-          "qty": 3,
-          "pricetotal": 36000,
-          "image": "https://raw.githubusercontent.com/ginapedraza/burger-queen-api-mock/main/resources/images/producto-burger-doble.png",
-          "type": "Lunch",
-          "dateEntry": "2022-03-05 15:14:10"
-        },
-        {
-          "id": 13,
-          "name": "Papas Fritas",
-          "price": 2500,
-          "qty": 1,
-          "pricetotal": 2500,
-          "image": "https://raw.githubusercontent.com/ginapedraza/burger-queen-api-mock/main/resources/images/producto-papas.png",
-          "type": "Lunch",
-          "dateEntry": "2022-03-05 15:14:10"
-        }
-      ],
-      "dateEntry": "3:32 PM",
-      "status": "Entregado",
-      "id": 51,
-      "dateFinal": "3:32 PM"
-    },
-    {
-      "client": "Renata",
-      "table": "Mesa 2",
-      "products": [
-        {
-          "id": 1,
-          "name": "Café Americano",
-          "price": 3000,
-          "qty": 1,
-          "pricetotal": 3000,
-          "image": "https://raw.githubusercontent.com/ginapedraza/burger-queen-api-mock/main/resources/images/producto-cafe.png",
-          "type": "Breakfast",
-          "dateEntry": "2022-03-05 15:14:10"
-        }
-      ],
-      "dateEntry": "3:37 PM",
-      "status": "Entregado",
-      "id": 52,
-      "dateFinal": "4:19 PM"
-    },
-    {
       "client": "Rolo",
       "table": "Mesa 2",
       "products": [
@@ -199,85 +39,8 @@
       "status": "Por entregar",
       "id": 53,
       "dateFinal": "4:36 PM"
-    },
-    {
-      "client": "Zoey",
-      "table": "Mesa 5",
-      "products": [
-        {
-          "id": 6,
-          "name": "Agua Mineral 500ml",
-          "price": 1000,
-          "qty": 1,
-          "pricetotal": 1000,
-          "image": "https://raw.githubusercontent.com/ginapedraza/burger-queen-api-mock/main/resources/images/producto-agua-500.png",
-          "type": "Lunch",
-          "dateEntry": "2022-03-05 15:14:10"
-        },
-        {
-          "id": 9,
-          "name": "Bebida 750ml",
-          "price": 2000,
-          "qty": 1,
-          "pricetotal": 2000,
-          "image": "https://raw.githubusercontent.com/ginapedraza/burger-queen-api-mock/main/resources/images/producto-gasesosa.png",
-          "type": "Lunch",
-          "dateEntry": "2022-03-05 15:14:10"
-        },
-        {
-          "id": 13,
-          "name": "Papas Fritas",
-          "price": 2500,
-          "qty": 1,
-          "pricetotal": 2500,
-          "image": "https://raw.githubusercontent.com/ginapedraza/burger-queen-api-mock/main/resources/images/producto-papas.png",
-          "type": "Lunch",
-          "dateEntry": "2022-03-05 15:14:10"
-        }
-      ],
-      "dateEntry": "4:19 PM",
-      "status": "Pendiente",
-      "id": 54
-    },
-    {
-      "client": "Lilo",
-      "table": "Mesa 2",
-      "products": [
-        {
-          "id": 7,
-          "name": "Agua Mineral 750ml",
-          "price": 1500,
-          "qty": 1,
-          "pricetotal": 1500,
-          "image": "https://raw.githubusercontent.com/ginapedraza/burger-queen-api-mock/main/resources/images/producto-agua-750.png",
-          "type": "Lunch",
-          "dateEntry": "2022-03-05 15:14:10"
-        },
-        {
-          "id": 9,
-          "name": "Bebida 750ml",
-          "price": 2000,
-          "qty": 1,
-          "pricetotal": 2000,
-          "image": "https://raw.githubusercontent.com/ginapedraza/burger-queen-api-mock/main/resources/images/producto-gasesosa.png",
-          "type": "Lunch",
-          "dateEntry": "2022-03-05 15:14:10"
-        },
-        {
-          "id": 11,
-          "name": "Hamburguesa Doble",
-          "price": 12000,
-          "qty": 2,
-          "pricetotal": 24000,
-          "image": "https://raw.githubusercontent.com/ginapedraza/burger-queen-api-mock/main/resources/images/producto-burger-doble.png",
-          "type": "Lunch",
-          "dateEntry": "2022-03-05 15:14:10"
-        }
-      ],
-      "dateEntry": "4:35 PM",
-      "status": "Pendiente",
-      "id": 55
     }
+  
   ],
   "products": [
     {
@@ -382,19 +145,22 @@
       "email": "admin@systers.xyz",
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "Admin",
-      "id": 1
+      "id": 1,
+      "name": "Jorge Perez"
     },
     {
       "email": "waiter@systers.xyz",
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "Mesero",
-      "id": 2
+      "id": 2,
+      "name": "Jose Gonzalez"
     },
     {
       "email": "chef@systers.xyz",
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "Chef",
-      "id": 3
+      "id": 3,
+      "name": "Daniela Castro"
     }
   ]
 }
